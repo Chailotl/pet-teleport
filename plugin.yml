@@ -1,0 +1,6 @@
+name: PetTeleport
+description: Pets teleport with you!
+author: Raus
+main: com.raus.petTeleport.Main
+version: 1.0
+api-version: 1.15
