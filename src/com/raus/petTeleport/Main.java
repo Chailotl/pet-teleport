@@ -10,10 +10,10 @@ public class Main extends JavaPlugin
 		// Listeners
 		getServer().getPluginManager().registerEvents(new UnloadListener(), this);
 	}
-	
+
 	@Override
 	public void onDisable()
 	{
-		
+
 	}
 }
