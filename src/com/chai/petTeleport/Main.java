@@ -1,4 +1,4 @@
-package com.raus.petTeleport;
+package com.chai.petTeleport;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
